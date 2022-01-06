@@ -1,0 +1,159 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    
+    font-size: 50px;
+         
+}
+.header-color{
+    color: tomato;
+}
+
+.header-title{
+    text-align: center;
+}
+
+#sec-hearder{
+    padding-bottom: 20px;
+}
+
+
+  
+.header-border-add{
+    border-left: 7px solid tomato;
+    
+}
+.Header-padding{
+    padding-left: 20px;
+}
+.upper-banner-half-section{
+    width: 50%;
+    padding-left: 5%;
+}
+.upper-banner-half-section img{
+    width: 80%;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 20px;
+}
+.third-b-padding{
+    padding-bottom: 30px;
+}
+.fourth-b-padding{
+    padding-left: 200px;
+}
+
+.half-width img{
+    width: 70%;
+    
+}
+.develop{
+    margin-right: 8%;
+}
+.dream-big-left{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+.dream-big-right{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,tomato);
+    padding: 10px 50px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+    transition: .5s;
+    
+}
+
+
+.link-button:hover {
+    color: wheat;
+    cursor: pointer;
+  }
+
+.flexble-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.midle-banner-section{
+    width: 100%;
+    padding-left: 5%;
+    margin-bottom: 30px;
+    
+}
+
+
+
+.mission{
+    width: 250px;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 250px;
+    
+    
+}
+.mission img{
+    width: 70%;
+}
+.mission-color{
+    background-color: rgb(239, 243, 245);
+
+}
+
+.vission-color{
+    background-color: rgb(197, 176, 133);
+
+}
+
+.goal-color{
+    background-color: rgb(230, 176, 185);
+}
+
+.mission-vission-goal{
+    display: flex;
+    
+    
+}
+
+.upper-banner-half-section-hero{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 52px;
+    
+}
+.upper-banner-half-section-hero img{
+    width: 105%;
+    border-radius: 20px;
+}
+.footer-div{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer{
+
+
+    background-color: black;
+    
+
+}
+
